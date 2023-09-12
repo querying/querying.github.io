@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This is a website by Q. I am testing the functionalities of Quarto's website creation capabilities.
