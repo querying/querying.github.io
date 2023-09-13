@@ -5,5 +5,12 @@
     "title": "About",
     "section": "",
     "text": "This is a website by Q. I am testing the functionalities of Quarto’s website creation capabilities."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my_website",
+    "section": "",
+    "text": "This is a Quarto website by Q. I am testing the funtionalities of Quarto’s website creation capabilities and am very impressed.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
